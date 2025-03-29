@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/labs/lab1/Q2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/labs/lab2/Q1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/labs/lab2/Q2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab3/Q1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab3/Q2" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
